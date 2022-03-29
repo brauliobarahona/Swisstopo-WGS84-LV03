@@ -178,7 +178,7 @@ if __name__ == "__main__":
     # Convert WGS84 to LV03 coordinates
     lv03 = converter.WGS84toLV03(wgs84[0], wgs84[1], wgs84[2])
 
-    print "WGS84: "
-    print wgs84
-    print "LV03: "
-    print lv03
+    print("WGS84: ")
+    print(wgs84)
+    print("LV03: ")
+    print(lv03)
