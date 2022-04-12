@@ -32,8 +32,8 @@
 # Updated 9 dec 2014
 # Please validate your results with NAVREF on-line service: http://www.swisstopo.admin.ch/internet/swisstopo/en/home/apps/calc/navref.html (difference ~ 1-2m)
 
-import math
 from __future__ import print_function
+import math
 
 class GPSConverter(object):
     '''
